@@ -1,0 +1,3 @@
+D:\no\ip moi\ip moi\x64\Debug\ip moi.vcxproj.AssemblyReference.cache
+D:\no\ip moi\ip moi\x64\Debug\ipmoi.MyForm.resources
+D:\no\ip moi\ip moi\x64\Debug\ip moi.vcxproj.GenerateResource.cache
